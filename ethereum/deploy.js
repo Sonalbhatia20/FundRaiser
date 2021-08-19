@@ -19,7 +19,7 @@ const deploy = async () => {
   )
     .deploy({ data: "0x" + compiledFactory.bytecode })
     .send({
-      gas: "1000000",
+      gas: "5000000",
       gasPrice: web3.utils.toWei("2", "gwei"),
       from: accounts[0],
     });
