@@ -2,7 +2,7 @@
 
 FundRaiser is a decentralized crowdfunding platform built to reduce the scams and frauds that have been happening on traditional crowdfunding platforms like Kickstarter. 
 
-# Problems with the current system
+# Problems with the existing platforms
 
 A big issue with the current crowdfunding platforms is that after the contributions have been made, there is no transparency for the contributors and they have no control over the flow of money. There is no assurance that people who post projects on Kickstarter will actually deliver them or use the funds to implement their projects.
 This has led to a lot of malicious activities and scams on Kickstarter. 
