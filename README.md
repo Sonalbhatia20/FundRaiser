@@ -15,21 +15,26 @@ FundRaiser uses blockchain to keep track of the funds collected using the applic
 
 Home Page
 
-![2021-08-19 (1)](https://user-images.githubusercontent.com/56190913/130085451-f2d5ecb9-2be4-442e-9cae-3f1d0f6cc7dd.png)
+![allCampaigns](https://user-images.githubusercontent.com/56190913/130351577-be98d77b-d36f-424b-8740-fa2d16b94917.png)
+
 
 Campaign Details Page
 
-![2021-08-19 (3)](https://user-images.githubusercontent.com/56190913/130085855-734e00da-a6ce-4997-b464-6b5c00dfe7d6.png)
+![Campaign](https://user-images.githubusercontent.com/56190913/130351581-6df013cf-c706-4c6b-94ae-d8c47fed0f2b.png)
+
 
 Create Campaign Page
 
-![2021-08-19 (2)](https://user-images.githubusercontent.com/56190913/130085955-f9bc7246-4475-4822-a234-254b7d083274.png)
+![createCampaign](https://user-images.githubusercontent.com/56190913/130351584-20d00ef0-b2f3-46d7-8319-1baedf4ff2d5.png)
+
 
 Create Request Page
 
-![2021-08-19 (5)](https://user-images.githubusercontent.com/56190913/130086028-b2b0b700-5d09-4f8e-ac91-b838867293fe.png)
+![createRequest](https://user-images.githubusercontent.com/56190913/130351589-b9304a77-72e9-4de7-86ec-60271cd37f9a.png)
+
 
 Requests Page
 
-![2021-08-19 (4)](https://user-images.githubusercontent.com/56190913/130086105-92781d95-49dd-4690-aade-cdac31e310d3.png)
+![Requests](https://user-images.githubusercontent.com/56190913/130351592-a5b4eb87-c134-4fa9-b35e-87976139f799.png)
+
 
